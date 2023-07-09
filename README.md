@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @r3rer3
+- 👀 I’m interested in monero, bitcoin, privacy, and cryptography
